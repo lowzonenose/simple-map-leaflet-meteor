@@ -1,6 +1,13 @@
 # Exemple d'application rapide (Meteor) avec les extensions Leaflet du Geoportail.
 
-cf. tutoriel avec Meteor sur l'url suivante : https://www.meteor.com/tutorials/react/creating-an-app
+- tutoriel avec Meteor : 
+https://www.meteor.com/tutorials/react/creating-an-app
+
+- tutoriel d'utilisation des extensions leaflet Géoportail :
+https://geoservices.ign.fr/documentation/utilisation_web/extension-leaflet.html
+
+- github des extensions leaflet/openlayers Géoportail :
+https://github.com/IGNF/geoportal-extensions
 
 ## Installation de Meteor (linux)
 
@@ -15,3 +22,5 @@ cf. tutoriel avec Meteor sur l'url suivante : https://www.meteor.com/tutorials/r
 > meteor
 
 Puis ouvrir le navigateur sur l'url suivante : http://localhost:3000 
+
+![Exemple Image](exemple.png)
