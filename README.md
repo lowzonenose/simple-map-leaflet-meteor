@@ -1,7 +1,7 @@
 # Exemple d'application rapide (Meteor) avec les extensions Leaflet du Geoportail.
 
 - tutoriel avec Meteor : 
-https://www.meteor.com/tutorials/react/creating-an-app
+https://www.meteor.com/tutorials/blaze/creating-an-app
 
 - tutoriel d'utilisation des extensions leaflet Géoportail :
 https://geoservices.ign.fr/documentation/utilisation_web/extension-leaflet.html
